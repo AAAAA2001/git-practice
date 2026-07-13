@@ -1,3 +1,5 @@
 four
 4
 5q
+new line in four file.
+New line in staging area.
